@@ -1,4 +1,4 @@
-print("this is me tehid")
+print("this is me segitid")
 print("this is me python")
 print("this is me python")
 print("this is me python")
