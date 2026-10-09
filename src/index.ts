@@ -1,2 +1,2 @@
-const num=14 //imran change this number to 23
+const num=16 //imran change this number to 23
 console.log(num)
