@@ -1,2 +1,3 @@
-const num=16 //imran change this number to 23
-console.log(num)
+
+const num = 24; //imran change this number to 23
+console.log(num);
